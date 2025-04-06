@@ -34,7 +34,7 @@
 
 ### I. Why This Matters  
 - **AI Revolution**: DeepSeek (data-first) vs. ChatGPT O1-mini (NLP-first) - 85% of enterprises now use hybrid AI approaches 
-- **Business Value**: Our segmentation strategy reduced customer churn by 18% in simulated scenarios  
+- **Business Value**: Segmentation strategy reduced customer churn by 18% in simulated scenarios  
 - **My Edge**: Bridging technical implementation with executive-level storytelling  
 
 ### II. Technical Journey  
