@@ -40,10 +40,10 @@
 ### II. Technical Journey  
 ```mermaid
 graph LR
-A[Raw Data] --> B{DeepSeek Preprocessing}
+A[Raw Data] --> B{DeepSeek/ChatGPT Preprocessing}
 B --> C[Feature Engineering]
 C --> D[Clustering]
-D --> E[ChatGPT Insights]
+D --> E[DeepSeek/ChatGPT Insights]
 E --> F[Business Impact Analysis]
 ```
 
