@@ -2,7 +2,7 @@
 **by Duyen Pham | Data Analyst**  
 *[Badges: Python | Machine Learning | AI Automation | Business Insights]*  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TBJ_DmPn6TOZoseA6gkS_KOqLGAV6fK-#scrollTo=s2u6bvUyAVU-)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j1ZHAaB36slLajjvQ7jV2mP61QUIe89C#scrollTo=gQeSJDkVU4NG)
 
 ---
 
